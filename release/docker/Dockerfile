@@ -1,4 +1,4 @@
-FROM alpine:3.11
+FROM alpine:3.16.9
 
 ENV LANG=en_US.UTF-8
 
