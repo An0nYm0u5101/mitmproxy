@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "classnames": "^2.2.5",
+    "classnames": "^2.5.1",
     "lodash": "^4.17.4",
     "mock-xmlhttprequest": "^1.1.0",
     "prop-types": "^15.6.0",
